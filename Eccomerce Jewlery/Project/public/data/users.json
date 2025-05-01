@@ -1,0 +1,88 @@
+{
+    "customers": [
+      {
+        "name": "Dalal",
+        "surname": "Nayem",
+        "username": "dalalnayem",
+        "shipping_address": "123 St No, Doha, Qatar",
+        "password": "password123",
+        "balance": 1000,
+        "purchase":[]
+
+      },
+      {
+        "name": "Mariam",
+        "surname": "Al-Shaikh",
+        "username": "mariamalshaikh",
+        "shipping_address": "456 St No, Alrayaan, Qatar",
+        "password": "password123",
+        "balance": 500,
+        "purchase":[]
+
+      },
+      {
+        "name": "Hanan",
+        "surname": "Rashid",
+        "username": "hananrashid",
+        "shipping_address": "789 St No, AlSaad, Qatar",
+        "password": "password123",
+        "balance": 1500,
+        "purchase":[]
+      }
+    ],
+    "seller": [
+      {
+        "company_name": "JOIA Company",
+        "username": "joiaseller",
+        "password": "password123",
+        "bank_account": "123456789",
+        "sellings":[
+          {
+            "id": 17,
+            "name": "BOTTEGA EARRINGS",
+            "price": 35,
+            "image": "earrings/bottega.png",
+            "quantity": 5,
+            "purchaseusernames":[
+            ]
+
+          },
+          {
+            "id": 18,
+            "name": "GOLD DENSE HOOPS",
+            "price": 45,
+            "image": "earrings/goldhoops.jpeg",
+            "quantity": 10,
+            "purchaseusernames":[]
+
+          },{
+            "id": 9,
+            "name": "CERECENT MOON BRACELET",
+            "price": 35,
+            "image": "bracelets/crecent_moon.jpg",
+            "quantity": 5,
+            "purchaseusernames":[]
+
+          },
+          {
+            "id": 10,
+            "name": "GOLD FLOWER BRACELET",
+            "price": 45,
+            "image": "bracelets/gold_flower.jpg",
+            "quantity": 10,
+            "purchaseusernames":[]
+          }
+        ]
+
+
+        
+      }
+    ],
+    "admin": [
+      {
+        "username": "admin",
+        "password": "password123"
+      }
+    ]
+  }
+  

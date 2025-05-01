@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JOIA - Jewelry Platform</title>
+    <link rel="stylesheet" href="/public/styles/addItem.css">
+
+
+</head>
+<body>
+  
+        <main>
+
+            <div id="middle-section">
+                    <h1> Add Items Information </h1>
+                    <div class="items-category">
+                        <label for="itemcategory">Category: </label>
+                <select id="itemcategory" class="select" >
+                    <option value="necklaces">Necklaces</option>
+                    <option value="earrings">Earrings</option>
+                    <option value="rings">Rings</option>
+                    <option value="bracelets">Bracelets</option>
+                </select>
+                <label for="itemname">Item Name: </label>
+                <input type="text" id="itemname" required>
+                    <label for="itemimage">Item Image: </label>
+                    <input class="file" type="file" id="itemimage" accept="image/*" required>
+                   <label for="itemprice">Item Price: </label>
+                   <input type="text" id="itemprice" required>
+                   <label for="itemquantity">Quantity: </label>
+                   <input type="text" id="itemquantity"required>
+                   <button class="add" id="add" type="add">Add</button>
+
+                </div>
+
+                </div>
+        </main>
+            <footer id="footer">
+            <div><p1>© 2024 JOIA </p1></div>
+        </footer>
+    </div>
+
+    <script src="/public/scripts/addItem.js"></script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/public/styles/saleHisory.css">
+
+</head>
+<header><h1>SALE HISTORY</h1></header>
+<body>
+    <div class="sold-container">
+        <h2>Sold Out Items Details</h2>
+        <label>Total Sold Out: </label>
+        <input id="sold" type="text" readonly></div>
+
+    <table >
+        <thead class="sold-purchase-history-table" id="sold-purchase-history-table">
+            <tr>
+                <th>Item Image</th>
+                <th>Item Name</th>
+                <th>Quantity</th>
+                <th>Actual price</th>
+                <th>Total Price Gained</th>
+                <th>Usernames [ Quantity Purchase ]</th>
+            </tr>
+        </thead>
+        <tbody class="sold-popluate-table" id="sold-populate-table">
+        </tbody>
+    </table>
+    
+    <div class="hr-container">
+        <hr>
+    </div>
+
+    <h2>Not Sold Out Items Details</h2>
+    <table >
+        <thead class="purchase-history-table" id="purchase-history-table">
+            <tr>
+                <th>Item Image</th>
+                <th>Item Name</th>
+                <th>Quantity</th>
+                <th>Actual price</th>
+                <th>Total Price Gained</th>
+                <th>Usernames [ Quantity Purchase ]</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+</body>
+<script type="module" src="/public/scripts/saleHisory.js"></script>
+</html>

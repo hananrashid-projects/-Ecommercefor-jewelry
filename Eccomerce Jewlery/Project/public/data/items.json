@@ -1,0 +1,262 @@
+[
+  {
+    "category": "necklaces",
+    "items": [
+      {
+        "id": 1,
+        "name": "GOLD FLOWER NECKLACE",
+        "price": 20,
+        "image": "necklaces/gold_flower.png.jpg",
+        "quantity":5
+
+    },
+    {
+        "id": 2,
+        "name": "GOLD CIRCLE NECKLACE",
+        "price": 20,
+        "image": "necklaces/gold_circle.png.png",
+        "quantity":10
+    },
+    {
+        "id": 3,
+        "name": "GOLD LAYERED NECKLACE",
+        "price": 10,
+        "image": "necklaces/gold_layered.png.png",
+        "quantity":2
+
+    },
+    {
+        "id": 4,
+        "name": "HEART FLOWER NECKLACE",
+        "price": 20,
+        "image": "necklaces/heart_flower.png.jpg",
+        "quantity":3
+
+    },
+    {
+        "id": 5,
+        "name": "JUNIE NECKLACE",
+        "price": 30,
+        "image": "necklaces/junie.png.jpg",
+        "quantity":2
+    },
+    {
+        "id": 6,
+        "name": "SATURN PLANET NECKLACE",
+        "price": 20,
+        "image": "necklaces/planet.png.jpg",
+        "quantity":8
+
+    },
+    {
+        "id": 7,
+        "name": "MOON FLOWER NECKLACE",
+        "price": 20,
+        "image": "necklaces/moon.png.jpg",
+        "quantity":1
+
+    },
+    {
+        "id": 8,
+        "name": "V SHAPED NECKLACE",
+        "price": 10,
+        "image": "necklaces/v.png.jpg",
+        "quantity":8
+
+    }
+    ]
+  },
+  {
+    "category": "bracelets",
+    "items": [
+      {
+        "id": 9,
+        "name": "CERECENT MOON BRACELET",
+        "price": 2000,
+        "image": "bracelets/crecent_moon.jpg",
+        "quantity": 5
+      },
+      {
+        "id": 10,
+        "name": "GOLD FLOWER BRACELET",
+        "price": 45,
+        "image": "bracelets/gold_flower.jpg",
+        "quantity": 10
+      },
+      {
+        "id": 11,
+        "name": "GOLD INITIAL BRACELET",
+        "price": 100,
+        "image": "bracelets/gold_initial.jpg",
+        "quantity": 2
+      },
+      {
+        "id": 12,
+        "name": "GOLD PAPER CLIP BRACELET",
+        "price": 200,
+        "image": "bracelets/gold_paper_clip.jpg",
+        "quantity": 3
+      },
+      {
+        "id": 13,
+        "name": "HEART BRACELET",
+        "price": 60,
+        "image": "bracelets/heart.jpg",
+        "quantity": 2
+      },
+      {
+        "id": 14,
+        "name": "MOON BRACELET",
+        "price": 70,
+        "image": "bracelets/moon.jpg",
+        "quantity": 8
+      },
+      {
+        "id": 15,
+        "name": "SOLID GOLD BRACELET",
+        "price": 90,
+        "image": "bracelets/solid_gold.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 16,
+        "name": "SQUARE BRACELET",
+        "price": 120,
+        "image": "bracelets/square.jpg",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "category": "earrings",
+    "items": [
+      {
+        "id": 17,
+        "name": "BOTTEGA EARRINGS",
+        "price": 35,
+        "image": "earrings/bottega.png",
+        "quantity": 5
+      },
+      {
+        "id": 18,
+        "name": "GOLD DENSE HOOPS",
+        "price": 45,
+        "image": "earrings/goldhoops.jpeg",
+        "quantity": 10
+      },
+      {
+        "id": 19,
+        "name": "GOLD PEARL EARRINGS",
+        "price": 100,
+        "image": "earrings/goldpearl.png",
+        "quantity": 2
+      },
+      {
+        "id": 20,
+        "name": "GOLD BUMP EARRINGS",
+        "price": 200,
+        "image": "earrings/gold_bump.png",
+        "quantity": 3
+      },
+      {
+        "id": 21,
+        "name": "GOLD HOOPS EARRINGS",
+        "price": 60,
+        "image": "earrings/gold_hollow_chunky_hoops.png",
+        "quantity": 2
+      },
+      {
+        "id": 22,
+        "name": "GOLD MOON EARRINGS",
+        "price": 70,
+        "image": "earrings/gold_moon.png",
+        "quantity": 8
+      },
+      {
+        "id": 23,
+        "name": "GOLD SQUARE EARRINGS",
+        "price": 90,
+        "image": "earrings/gold_square.png",
+        "quantity": 11
+      },
+      {
+        "id": 24,
+        "name": "SILVER EARRINGS",
+        "price": 120,
+        "image": "earrings/silver.png",
+        "quantity": 8
+      },
+      {
+        "id": 25,
+        "name": "SILVER DIAMONDS EARRINGS",
+        "price": 60,
+        "image": "earrings/silverdiamondhoops.jpeg",
+        "quantity": 2
+      },
+      {
+        "id": 26,
+        "name": "SILVER DOT EARRINGS",
+        "price": 70,
+        "image": "earrings/silverdot.jpeg",
+        "quantity": 8
+      },
+      {
+        "id": 27,
+        "name": "SILVER CUFF EARRINGS",
+        "price": 90,
+        "image": "earrings/silverearcuff.png",
+        "quantity": 11
+      },
+      {
+        "id": 28,
+        "name": "GOLD ROUND EARRINGS",
+        "price": 120,
+        "image": "earrings/goldround.png",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "category": "rings",
+    "items": [
+      {
+        "id": 31,
+        "name": "PEARL RINGS",
+        "price": 20,
+        "image": "rings/3-packgempearl.png",
+        "quantity":5
+
+    },
+    {
+        "id": 32,
+        "name": "GOLD RINGS",
+        "price": 20,
+        "image": "rings/gold1.jpeg",
+        "quantity":10
+    },
+    {
+        "id": 33,
+        "name": "GOLD RINGS",
+        "price": 10,
+        "image": "rings/gold2.jpeg",
+        "quantity":2
+
+    },
+    {
+        "id": 34,
+        "name": "GOLD HUG RINGS",
+        "price": 20,
+        "image": "rings/goldadjustable hugring.png",
+        "quantity":3
+
+    },
+    {
+        "id": 35,
+        "name": "JUNIE RINGS",
+        "price": 30,
+        "image": "rings/goldheartcharm.png",
+        "quantity":2
+    }
+    ]
+  }
+]
